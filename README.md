@@ -29,22 +29,19 @@ To run this project, you'll need:
 
 ### 1. Clone or Download the Project
 
-```bash
+
 git clone <repository-url>
 cd <project-directory>
 ## 🚀 How to Run
 
 ### 2. Install Dependencies
 
-```bash
 npm install
-```
+
 
 ### 3. Run the Server
 
-```bash
 node app.js
-```
 
 The server will start listening on [http://localhost:3000](http://localhost:3000).
 
